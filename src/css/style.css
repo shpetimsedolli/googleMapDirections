@@ -1,0 +1,17 @@
+#map {
+  height: 400px; /* The height is 400 pixels */
+  width: 100%; /* The width is the width of the web page */
+}
+#btnStart {
+  width: 100px;
+  height: 50px;
+  background-color: #1a73e8;
+  outline: 0;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 10px;
+}
